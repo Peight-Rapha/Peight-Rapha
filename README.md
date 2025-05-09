@@ -22,4 +22,3 @@ Gosto de resolver problemas do dia a dia com soluções inovadoras e tecnologia.
 (https://www.linkedin.com/in/seu-linkedin/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)]
 (mailto:seuemail@example.com)
-teste
