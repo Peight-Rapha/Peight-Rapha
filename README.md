@@ -1,12 +1,11 @@
-# Olá! Eu sou "Raphael"
-Bem-vindo ao meu perfil! Aqui você encontra meus projetos, estudos e automações.
-Sou um desenvolvedor apaixonado por automação, inteligência artificial
-e análise de dados.
-Gosto de resolver problemas do dia a dia com soluções inovadoras e tecnologia.
-- Explorando novas tecnologias e aprimorando minhas habilidades
-- Interesse especial em **IA, Automação, Web Scraping e Data Science**
-- Trabalhando com **Python, Selenium, LangChain e Bancos de Dados**
-- Sempre aprendendo e compartilhando conhecimento
+Hi! I’m Raphael
+Welcome to my profile! Here you’ll find my projects, studies, and automations focused on data, automation, and analytical solutions.
+I’m a developer passionate about technology, with a strong focus on automation, artificial intelligence, and data analytics, always aiming to turn everyday problems into efficient and scalable solutions.
+
+🚀 Exploring new technologies and continuously improving my skills
+📊 Special interest in AI, Automation, Web Scraping, and Data Science
+🛠 Working with Python, Selenium, LangChain, and Databases
+📚 Always learning, documenting, and sharing knowledge
 
 ## Tecnologias & Ferramentas
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
