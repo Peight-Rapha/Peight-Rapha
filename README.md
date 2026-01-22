@@ -8,6 +8,8 @@ I’m a developer passionate about technology, with a strong focus on automation
 📚 Always learning, documenting, and sharing knowledge
 
 ## Tecnologias & Ferramentas
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-05122A?style=flat&logo=https://learn.microsoft.com/en-us/media/logos/logo-fabric.svg)
+![DP-600 Fabric Analytics Engineer](https://img.shields.io/badge/DP--600-Fabric%20Analytics%20Engineer-0078)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
